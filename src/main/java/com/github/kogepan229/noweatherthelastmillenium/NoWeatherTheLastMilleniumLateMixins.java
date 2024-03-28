@@ -17,6 +17,6 @@ public class NoWeatherTheLastMilleniumLateMixins implements ILateMixinLoader {
 
     @Override
     public List<String> getMixins(Set<String> loadedMods) {
-        return Arrays.asList("MixinDisableTheLastMilleniumWeather", "MixinWorldProvider");
+        return Arrays.asList("MixinDisableTheLastMilleniumWeather");
     }
 }
