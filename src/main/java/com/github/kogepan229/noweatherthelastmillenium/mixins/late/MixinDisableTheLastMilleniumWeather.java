@@ -1,4 +1,4 @@
-package com.github.kogepan229.noweatherthelastmillenium.mixins;
+package com.github.kogepan229.noweatherthelastmillenium.mixins.late;
 
 import net.minecraft.world.chunk.Chunk;
 
